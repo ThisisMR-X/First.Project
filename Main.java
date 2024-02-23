@@ -3,6 +3,7 @@ public class Main {
 
         System.out.print("Hello to my first project!");
         System.out.print("Hello to my first project2!");
+        System.out.print("Hello to my first project3!");
 
     }
 }
